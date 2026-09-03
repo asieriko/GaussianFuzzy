@@ -26,7 +26,7 @@ Implementation of the Mamdani inference, Wang-Mendel method and some performance
 
 Some functions to create and manage fuzzy partitions from data
 
-# datasets/load_dataset.py
+### datasets/load_dataset.py
 
 Functions to load .dat files
 
